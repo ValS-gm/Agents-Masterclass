@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 import os
-from fbprophet import Prophet
+from fbprophet import prophet
 import matplotlib.pyplot as plt
 from dotenv import load_dotenv
 
