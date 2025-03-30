@@ -1,7 +1,7 @@
 streamlit
 pandas
-numpy
 matplotlib
-fbprophet
-openpyxl
 python-dotenv
+openpyxl
+prophet
+groq
